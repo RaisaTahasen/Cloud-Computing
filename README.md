@@ -1,6 +1,6 @@
 # Cloud-Computing 🧩  
 
-This repository contains my assignments and practice files related to **Cloud Computing**. It includes:  
+This repository contains my assignment files related to **Cloud Computing**. It includes:  
 
 - Docker fundamentals and use cases  
 - RabbitMQ messaging examples  
